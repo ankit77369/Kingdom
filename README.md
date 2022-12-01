@@ -1,1 +1,2 @@
 # Kingdom
+basic git explanation
